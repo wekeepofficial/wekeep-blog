@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launching WeKeep – bookkeeping for small businesses"
+title:  "Launching WeKeep – bookkeeping for digital businesses"
 date:   2019-06-12 11:21:39 +0400
 published: true
 ---
