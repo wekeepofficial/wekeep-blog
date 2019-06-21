@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Launching WeKeep – bookkeeping for small businesses"
-date:   2019-06-12 11:21:39 +0400
-published: true
+date:   2019-06-21 11:21:39 +0400
+published: false
 ---
 
-Officially launching [WeKeep][wekeep-home] today. WeKeep is an affordable bookkeeping service for online-first small businesses and startups in the GCC.
+Officially launching [WeKeep][wekeep-home] today. WeKeep is an affordable bookkeeping service for small businesses and startups in the GCC.
 
 Here's how I came to believe there's an opportunity for a new type of bookkeeping service.
 
