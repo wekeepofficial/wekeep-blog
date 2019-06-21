@@ -7,4 +7,70 @@ body {
     font-weight: 500;
     font-size: 18px;
     -webkit-font-smoothing: antialiased;
+    background: #f5f9fc;
+    color: #354058;
+}
+
+a, a:visited {
+    color: #354058;
+    transition: all 0.2s ease;
+}
+p a {
+    box-shadow: 0 6px 0 0 rgba(0,211,135,.6);
+}
+p a:hover {
+    background: rgba(171,232,209,.2);
+    color: #222;
+    text-decoration: none;
+}
+code {
+    background: #eef4ff;
+    border: 1px solid #dbe3f1;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 700;
+    line-height: 1.4;
+}
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5 {
+    margin-top: 50px;
+}
+li {
+    margin-bottom: 15px;
+}
+blockquote {
+    border-left: 7px solid #8ae5b8;
+    font-size: 28px;
+    color: #222;
+}
+.post-title {
+    line-height: 1.4;
+}
+.site-title {
+    color: #828282;
+    letter-spacing: unset;
+    font-size: 18px;
+    font-weight: 500;
+}
+a.site-title:hover {
+    text-decoration: none;
+}
+.site-subtitle {
+    font-size: 15px;
+    color: #828282;
+    
+}
+.post-content p {
+    margin-bottom: 40px;
+}
+.post-meta, .footer-col-wrapper {
+    color: #8898b3;
+}
+
+.site-nav {
+    display: none;
 }
