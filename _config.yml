@@ -16,7 +16,7 @@
 title: Nadim Alameddine
 subtitle: Building wekeep.co
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm currently building wekeep.co, a bookkeeping service for online-first small businesses and startups in the GCC. Follow my progress on twitter.
+  I'm currently building wekeep.co, a bookkeeping service for digital entrepreneurs and startups in the GCC. Follow my progress on twitter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nadimalameddine
