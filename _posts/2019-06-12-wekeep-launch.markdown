@@ -2,6 +2,7 @@
 layout: post
 title:  "Launching WeKeep – bookkeeping for digital entrepreneurs"
 date:   2019-06-21 11:21:39 +0400
+permalink: wekeep-launch
 ---
 
 Officially launching [WeKeep][wekeep-home] today out of private. WeKeep is a bookkeeping service built for digital entrepreneurs and startups in the GCC.
