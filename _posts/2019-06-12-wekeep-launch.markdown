@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launching WeKeep – bookkeeping for digital entrepreneurs"
-date:   2019-06-21 11:21:39 +0400
+date:   2019-06-23 00:21:39 +0400
 permalink: wekeep-launch
 ---
 
