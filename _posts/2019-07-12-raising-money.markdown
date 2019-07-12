@@ -23,7 +23,7 @@ In the past few years I've developed an opinion around building a certain type o
 - There's another game you can play. With a lot of patience and persistence, it's possible to build a good business for yourself which can make you a rich profit using the leverage of software. If you're lucky, in a few years you may find yourself inadvertently playing the Big Game. Mailchimp, Basecamp, Zoho are some companies that never took VC money. Wow. 
 - **The further you can delay fundraising, the more you have clarity about whether you can or want to play the Big Game.**
 
-The Big Game is exciting and if successful can generate enormous wealth. It's also hugely stressful.
+The Big Game is exciting and if successful can generate enormous wealth. It's also stressful.
 There are also thousands of tech entrepreneurs around the world who are running super profitable small tech businesses and that nobody has heard of. They are independent, are enjoying the freedom to create and to control their destiny, and are accumulating enough wealth to be able to retire early.
 
 Pick your game wisely.
