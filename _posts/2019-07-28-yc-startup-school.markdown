@@ -7,7 +7,7 @@ permalink: yc-startup-school
 
 WeKeep is taking part in [YC Startup School](http://startupschool.org), a 10-week course run by [Y Combinator](https://www.ycombinator.com/). 
 
-YC is arguably one of the most successful and sought after incubators; they were early investors in Dropbox, Airbnb and Stripe, to name a few. They've observed hundreds of startups and as a result, are able to recognize patterns and share advice on improving your odds of success. This is knowledge from people at the bleeding edge of innovation and investing. Don't read everything in there as the Truth though. You must develop your own point of view, guided by their experience.
+YC is arguably one of the most successful and sought after incubators; they were early investors in Dropbox, Airbnb and Stripe, to name a few. They've observed hundreds of startups and as a result, are able to recognize patterns and share advice on improving your odds of success. This is knowledge from people at the bleeding edge of innovation and investing. Don't read everything in there as the Truth though. **You must develop your own point of view**, guided by their experience.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For all startup advice, there is equal and opposite advice.</p>&mdash; Benedict Evans (@benedictevans) <a href="https://twitter.com/benedictevans/status/1133539265156042753?ref_src=twsrc%5Etfw">May 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
